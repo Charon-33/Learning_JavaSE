@@ -4,7 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /*
-很相似的三个单词：final，finalize，finally
+很相似的三个单词：final，finalize，finally。（修饰符、方法名、异常处理）
 
 1、finally必须配合try结构使用
 try{
