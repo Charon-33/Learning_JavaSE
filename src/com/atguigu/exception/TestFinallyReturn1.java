@@ -1,5 +1,5 @@
 package com.atguigu.exception;
-
+//没有异常的情况
 public class TestFinallyReturn1 {
     public static void main(String[] args) {
         int result = test("12");
