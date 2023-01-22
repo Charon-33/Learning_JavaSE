@@ -14,3 +14,5 @@
 7. 关键字throws：[1](https://github.com/Charon-33/Learning_JavaSE/tree/day15/src/com/atguigu/exception/TestThrows.java) [2](https://github.com/Charon-33/Learning_JavaSE/tree/day15/src/com/atguigu/exception/TestThrows2.java)
 8. [关键字throws对重写方法的要求](https://github.com/Charon-33/Learning_JavaSE/tree/day15/src/com/atguigu/exception/TestOverride.java)
 9. [关键字throw](https://github.com/Charon-33/Learning_JavaSE/tree/day15/src/com/atguigu/exception/TestThrow.java)
+10. [练习-倒计时](https://github.com/Charon-33/Learning_JavaSE/tree/day15/src/com/atguigu/exer/Exercise1.java)
+11. 练习-克隆对象：[Rectangle](https://github.com/Charon-33/Learning_JavaSE/tree/day15/src/com/atguigu/exer/Rectangle.java) [main](https://github.com/Charon-33/Learning_JavaSE/tree/day15/src/com/atguigu/exer/Exercise2.java)
