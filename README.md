@@ -16,3 +16,6 @@
 9. [关键字throw](https://github.com/Charon-33/Learning_JavaSE/tree/day15/src/com/atguigu/exception/TestThrow.java)
 10. [练习-倒计时](https://github.com/Charon-33/Learning_JavaSE/tree/day15/src/com/atguigu/exer/Exercise1.java)
 11. 练习-克隆对象：[Rectangle](https://github.com/Charon-33/Learning_JavaSE/tree/day15/src/com/atguigu/exer/Rectangle.java) [main](https://github.com/Charon-33/Learning_JavaSE/tree/day15/src/com/atguigu/exer/Exercise2.java)
+12. [练习-输入两个整数相除](https://github.com/Charon-33/Learning_JavaSE/tree/day15/src/com/atguigu/exer/Exercise3.java)
+13. 代码分析：[1](https://github.com/Charon-33/Learning_JavaSE/tree/day15/src/com/atguigu/exer/Exercise4.java) [2](https://github.com/Charon-33/Learning_JavaSE/tree/day15/src/com/atguigu/exer/Exercise5.java)
+14. 自定义异常：[定义异常（构造）](https://github.com/Charon-33/Learning_JavaSE/tree/day15/src/com/atguigu/exception/NotATriangleException.java) [定义规则](https://github.com/Charon-33/Learning_JavaSE/tree/day15/src/com/atguigu/exception/Triangle.java) [运行](https://github.com/Charon-33/Learning_JavaSE/tree/day15/src/com/atguigu/exception/TestDefineException.java)
