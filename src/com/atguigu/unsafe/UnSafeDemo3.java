@@ -25,7 +25,7 @@ class TicketRunnable implements Runnable{
         while(i>=1){
 
             try {
-                Thread.sleep(1000);//这里加入休眠是为了让问题暴露的明显问题
+                Thread.sleep(1000);//这里加入休眠是为了让问题暴露得更明显
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }

@@ -17,7 +17,7 @@ class ChatThread extends Thread{
             if(confirm == 'Y' || confirm == 'y'){
                 break;
             }*/
-            String answer = input.nextLine();
+            String answer = input.nextLine();//string是引用数据类型，比较的是地址，不能直接用 == 而用equals
             if(!answer.equals("") && Character.toUpperCase(answer.charAt(0))== 'Y' ){
                 break;
             }
